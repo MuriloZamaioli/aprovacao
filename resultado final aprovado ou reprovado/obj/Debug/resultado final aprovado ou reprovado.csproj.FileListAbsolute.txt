@@ -1,0 +1,7 @@
+C:\Users\murilo.lpzamaioli\source\repos\resultado final aprovado ou reprovado\resultado final aprovado ou reprovado\bin\Debug\resultado final aprovado ou reprovado.exe.config
+C:\Users\murilo.lpzamaioli\source\repos\resultado final aprovado ou reprovado\resultado final aprovado ou reprovado\bin\Debug\resultado final aprovado ou reprovado.exe
+C:\Users\murilo.lpzamaioli\source\repos\resultado final aprovado ou reprovado\resultado final aprovado ou reprovado\bin\Debug\resultado final aprovado ou reprovado.pdb
+C:\Users\murilo.lpzamaioli\source\repos\resultado final aprovado ou reprovado\resultado final aprovado ou reprovado\obj\Debug\resultado final aprovado ou reprovado.csproj.AssemblyReference.cache
+C:\Users\murilo.lpzamaioli\source\repos\resultado final aprovado ou reprovado\resultado final aprovado ou reprovado\obj\Debug\resultado final aprovado ou reprovado.csproj.CoreCompileInputs.cache
+C:\Users\murilo.lpzamaioli\source\repos\resultado final aprovado ou reprovado\resultado final aprovado ou reprovado\obj\Debug\resultado final aprovado ou reprovado.exe
+C:\Users\murilo.lpzamaioli\source\repos\resultado final aprovado ou reprovado\resultado final aprovado ou reprovado\obj\Debug\resultado final aprovado ou reprovado.pdb
